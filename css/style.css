@@ -1,0 +1,341 @@
+
+body {
+    /* font-family: Georgia, serif; */
+    font-family: "Bookman Old Style", "Bookman", "URW Bookman", serif;
+}
+.hero {
+    text-align: center;
+    padding: 30px 0;
+    background: #fff; /* optional background */
+}
+
+.hero-logo {
+    width: 86%; /* adjust size */
+    /* max-width: 80%; */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+/* Very small phones (iPhone SE, Android small 320-375px) */
+@media (max-width: 375px) {
+    .hero-logo {
+        width: 105%;
+    }
+}
+
+/* Small phones (376px - 480px) */
+@media (min-width: 376px) and (max-width: 480px) {
+    .hero-logo {
+        width: 105%;
+    }
+}
+
+/* Larger phones & small tablets (481px - 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+    .hero-logo {
+        width: 60%;
+    }
+}
+
+/* Tablets & iPads portrait/landscape (769px - 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .hero-logo {
+        width: 40%;
+    }
+}
+
+/* Laptops / Desktop Screens */
+/* @media (min-width: 1025px) {
+    .hero-logo {
+        width: 25%;
+    }
+} */
+
+/* ================= HERO HEADER ================= */
+.hero {
+    background-image: url('/mnt/data/format.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0px 20px 0px;
+    text-align: center;
+    color: black;
+    position: relative;
+}
+
+.hero-title {
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.hero-sub {
+    font-size: 30px;
+    font-style: italic;
+    margin-top: -10px;
+}
+
+.hero-sub2 {
+    font-size: 28px;
+    margin-top: -10px;
+}
+
+/* transparent menu */
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+    background: rgba(0,0,0,0.3);
+    backdrop-filter: blur(4px);
+}
+
+.nav-link {
+    color: #fff !important;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+/* blinking itinerary buttons */
+/* .blink-btn {
+    animation: blink 1.2s infinite;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+@keyframes blink {
+    0% { opacity: 1 }
+    50% { opacity: 0.4 }
+    100% { opacity: 1 }
+} */
+.blink {
+    animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% { opacity: 0; }
+  }
+  
+
+.section-title {
+    font-size: 32px;
+    font-weight: 700;
+    /* margin-top: 20px; */
+}
+
+.tour-image {
+    width: 100%;
+    border-radius: 6px;
+    height: 205px;
+}
+.subheading {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #222;
+    font-family: "Bookman Old Style", "Bookman", "URW Bookman", serif;
+}
+
+/* border-sticky bottom */
+
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #ffffff;
+    padding: 5px 0 8px 0;
+    z-index: 9999;
+    text-align: center;
+}
+
+.bar-title {
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: white;
+    background: black;
+}
+
+.bottom-bar a {
+    display: inline-block;
+}
+
+.bar-btn {
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0 12px;
+}
+
+.separator {
+    display: inline-block;
+    width: 3.5px;
+    height: 76px;
+    background: #00000045;
+    margin: -5px 3px;
+    margin-bottom: -17px;
+}
+
+/* =============== MEDIA QUERIES =============== */
+
+/* Extra Small (Mobile ≤ 576px) */
+@media (max-width: 576px) {
+    .bar-btn {
+        margin: 0 6px;
+        font-size: 18px;
+    }
+    .separator {
+        height: 55px;
+    }
+    .bar-title {
+        font-size: 16px;
+    }
+}
+
+/* Small Devices (≥ 576px and < 768px) */
+@media (min-width: 576px) and (max-width: 767px) {
+    .bar-btn {
+        margin: 0 10px;
+        font-size: 15px;
+    }
+    .separator {
+        height: 65px;
+    }
+}
+
+/* Medium Devices (≥ 768px and < 992px) */
+@media (min-width: 768px) and (max-width: 991px) {
+    .bar-btn {
+        margin: 0 20px;
+        font-size: 17px;
+    }
+    .separator {
+        height: 70px;
+    }
+}
+
+/* Large Devices (≥ 992px and < 1200px) */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .bar-btn {
+        margin: 0 80px;
+    }
+    .separator {
+        height: 90px;
+    }
+}
+
+/* Extra Large Devices (≥ 1200px) */
+@media (min-width: 1200px) {
+    .bar-btn {
+        margin: 2px 119px;
+        font-size: 19px;
+    }
+    .separator {
+        height: 100px;
+    }
+}
+
+
+.bar-btn i {
+    font-size: 22px;
+    display: block;
+    margin-bottom: 3px;
+}
+.home i {
+    color: blue;
+}
+
+.whatsapp i {
+    color: #25D366;
+}
+.call i {
+    color: red;
+}
+.enquiry i {
+    color: blue;
+}
+
+
+/* itinerary page css  */
+
+
+.destination-img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px; /* space between photo and heading */
+    border-radius: 10px; /* optional */
+}
+
+.banner-overlay {
+    position: relative;
+    width: 100%;
+    /* height: 240px; adjust height */
+    overflow: hidden;
+}
+
+
+
+
+/* homepage-index */
+
+
+/* .heading {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 32px;
+} */
+.travel-card {
+    display: block;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    text-decoration: none;
+    color: black;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.travel-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+.travel-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+/* Default (Desktop) */
+.travel-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.1rem;
+}
+
+/* 📱 Mobile screens */
+@media (max-width: 576px) {
+    .travel-card img {
+        height: 120px;  /* smaller image for mobile */
+    }
+
+    .card-title {
+        font-size: 0.85rem; /* smaller title on mobile */
+    }
+
+    .card-body {
+        padding: 8px; /* reduce padding */
+    }
+}
