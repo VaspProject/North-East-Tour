@@ -328,11 +328,11 @@ body {
 /* 📱 Mobile screens */
 @media (max-width: 576px) {
     .travel-card img {
-        height: 120px;  /* smaller image for mobile */
+        height: 83px;  /* smaller image for mobile */
     }
 
     .card-title {
-        font-size: 0.85rem; /* smaller title on mobile */
+        font-size: 0.61rem; /* smaller title on mobile */
     }
 
     .card-body {
