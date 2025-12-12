@@ -1,0 +1,586 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #070707 } 
+		.s1 { fill: #333335 } 
+		.s2 { fill: #4e4e4d } 
+		.s3 { fill: #646463 } 
+		.s4 { fill: #7a7a7a } 
+		.s5 { fill: #868686 } 
+		.s6 { fill: #8f8f8e } 
+		.s7 { fill: #9d9d9c } 
+		.s8 { fill: #aeaead } 
+		.s9 { fill: #bcbb99 } 
+		.s10 { fill: #bbbbbb } 
+		.s11 { fill: #c8c8c8 } 
+		.s12 { fill: #f9c940 } 
+		.s13 { fill: #cfd5d7 } 
+		.s14 { fill: #f6d77e } 
+		.s15 { fill: #dddedf } 
+		.s16 { fill: #c6f0f5 } 
+		.s17 { fill: #ebf1f2 } 
+		.s18 { fill: #f8f8f8 } 
+		.s19 { fill: #fbfbfb } 
+		.s20 { opacity: .5;fill: none;stroke: #000000;stroke-miterlimit:100 } 
+		.t21 { font-size: 1px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.s22 { fill: #ffffff } 
+	</style>
+	<g id="Background">
+		<path id="Path 0" class="s0" d="m18 6v-1h1 1l1 1v1h-1l-1 2v1 1 1l1 1v1h-1-1-1l-1-1h-1v-1l-1-1v-2h1l1-1 1-1zm-7 4v-1h1 1v2l1 2 1 1 1 1v1 1h-1l-1 1h-2l-1-1h-1l-1-1h-1-2v-1l1-1 1-1 1-1 1-1zm15 2l1-1h1 1v2l1 1 1 1 1 1v1h-1-1l-1-1h-1l-1-1h-1l-1-1v-1-1zm-23 5h1v1h-1zm-1 1h1v1h-1zm4 6v-1h1l1 1v1h-1-1zm12 0v-1h1v1 2 1 1 3 1h-1v-1zm12 0v-1h1v1 6 1 1h-1v-1zm8 0v-1h1v1 3 1 1 1 1 1h-1v-1zm4-1h1v1h-1zm1 2v-1h1v1 1 1h-1v-1zm-35 0h1v1h-1zm1 2v-1h1v1 1h-1zm1 1h1v1h-1zm1 1h1v1h-1zm1 1h1v1h-1z"/>
+		<path id="Path 1" class="s1" d="m17 6h1v1h-1zm2 3l1-2v1 1zm2-2h1v1h-1zm-6 1h1v1h-1zm-2 3v-2h1v2zm9-2h1v1h-1zm6 1h1v1h-1zm-4 2v-1h1v1 1h-1zm2-1h1v1h-1zm3 2v-2h1v1 1zm-10-1h1v1h-1zm-5 1h1v1h-1zm5 2v-1h1v1 1h-1zm14-1h1v1h-1zm-2 1h1v1h-1zm3 0h1v1h-1zm-18 1h1v1h-1zm5 0h1v1h-1zm11 0h1v1h-1zm3 0h1v1h-1zm2 2v-1h1 1v1h-1zm2 0h1v1h-1zm-31 8h1v1h-1zm2 1h1v1h-1zm32 0h1v1h-1zm-31 1h1v1h-1zm1 1h1v1h-1z"/>
+		<path id="Path 2" class="s2" d="m18 4h1v1h-1zm5 6h1v1h-1zm8 3h1v1h-1zm-1 1h1v1h-1zm-26 2h1v1h-1zm36 2h1v1h-1zm-33 7h1v1h-1zm35 1h1v1h-1zm-23 1h1v1h-1zm3 0h1v1h-1zm19 0h1v1h-1zm-28 3h1v1h-1z"/>
+		<path id="Path 3" class="s3" d="m19 9h1v1h-1zm-9 1h1v1h-1zm13 1h1v1h-1zm7 2v-1l1 1v1h-1zm-12 1h1v1h-1zm-13 2h1v1h-1zm10 1h1v1h-1zm8 0h1v1h-1zm-5 5h1v1h-1zm12 0h1v1h-1zm8 0h1v1h-1zm-33 1h1v1h-1zm8 8h1v1h-1zm11 0h1v1h-1z"/>
+		<path id="Path 4" class="s4" d="m17 5h1v1h-1zm5 4l-1-1h1 1v1zm5 1h1v1h-1zm-13 3l-1-2h1l1 1zm18 1h1v1h-1zm-12 2v-1h1v1 1h-1zm-12 0h1v1h-1zm28 0h1v1h-1zm-14 1h1v1h-1zm-17 6v-1h2v1h-1zm18-1h1v1h-1zm3 1l1-1v1 1h-1zm5 0v-1h1v1 1h-1zm3 0v-1l1 1v1h-1zm-21 0h1v1h-1zm24 0h1v1h-1zm-17 5v-1h2v1zm19-1h1v1h-1zm-34 4h1v1h-1zm32 0h1v1h-1zm-19 1h1v1h-1zm12 0h1v1h-1zm8 0h1v1h-1z"/>
+		<path id="Path 5" class="s5" d="m22 10h1v1h-1zm-3 1h1v1h-1zm10 2h1v1h-1zm3 0h1v1h-1zm-10 3h1v1h-1zm14 1h1v1h-1zm5 2h1v1h-1zm-28 3h1v1h-1zm4 0h1v1h-1zm2 0h1v1h-1zm8 0h1v1h-1zm2 0h1v1h-1zm4 0h1v1h-1zm4 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm-34 1h1v1h-1zm17 0h1v1h-1zm7 7v-6h1v1 1 4zm6-5v-1h1v7h-1v-5zm5-1h1v1h-1zm-19 3h1v1h-1zm-10 2h1v1h-1zm4 3v-1h1v1 1h-1zm2 0v-1h1v1 1h-1zm12 0v-1h1v1 1h-1zm-26 1v-1h1 1v1zm17 0v-1h1 1v1zm7-1h1v1h-1zm8 0h1v1h-1zm2 0h1v1h-1z"/>
+		<path id="Path 6" class="s6" d="m20 5h1v1h-1zm0 2h1v1h-1zm-14 10v-1h2v1zm10 0h1v1h-1zm15 1v-1h1 1zm7 0h1v1h-1zm2 1h1v1h-1zm-18 3h1v1h-1zm6 0h1v1h-1zm4 0h1v1h-1zm8 0h1v1h-1zm-23 1h1v1h-1zm2 0h1v1h-1zm-14 8v-7h1v1 1 5zm8-3v-4h1v5h-1zm6-2h1v1h-1zm4 0h1v1h-1zm17 1h1v1h-1zm-29 3h1v1h-1zm20 0h1v1h-1zm-25 1h1v1h-1zm6 0h1v1h-1zm8 2v-1h2v1h-1zm4-1h1v1h-1z"/>
+		<path id="Path 7" class="s7" d="m19 10h1v1h-1zm6 1h1v1h-1zm6 3h1v1h-1zm-15 1h1v1h-1zm19 0h1v1h-1zm-31 2h1v1h-1zm35 0h1v1h-1zm-38 2h1v1h-1zm19 4v-1h2v1zm-12 1h1v1h-1zm9 1v-1h1v7h-1v-5zm2 1v-2h1v2zm-13-1h1v1h-1zm36 0h1v1h-1zm-23 6v-3h1v3zm-9-2h1v1h-1zm6 4h1v1h-1zm10 0h1v1h-1zm-9 1h1v1h-1zm19 0h1v1h-1z"/>
+		<path id="Path 8" class="s8" d="m21 6h1v1h-1zm-6 7h1v1h-1zm11 2h1v1h-1zm2 1h1v1h-1zm16 9h1v1h-1zm-21 6h1v1h-1zm6 0h1v1h-1zm-10 3v-1h1 1v1h-1zm-3 0h1v1h-1zm6 1v-1h2v1h-1zm5 0v-1h2l1 1zm7-1h1v1h-1zm3 0h1v1h-1z"/>
+		<path id="Path 9" class="s9" d="m32 5h1v1h-1z"/>
+		<path id="Path 10" class="s10" d="m29 10h1v1h-1zm-5 3h1v1h-1zm-9 1h1v1h-1zm22 2h1v1h-1zm-34 2h1v1h-1zm9 4h1v1h-1zm2 0h1v1h-1zm9 1h1v1h-1zm6 0h1v1h-1zm15 1h1v1h-1zm-38 7v-5h1v1 4zm37-4h1v1h-1zm-20 1h1v1h-1zm-10 4h1v1h-1zm18 1h1v1h-1zm7 1l1-1h1v2h-2zm-18 1v-1h1 1v1h-1zm4-1h1v1h-1zm8 1v-1h1 1v1zm3-1h1v1h-1z"/>
+		<path id="Path 11" class="s11" d="m34 16h1v1h-1zm5 7h1v1h-1zm2 0h1v1h-1zm-17 1h1v1h-1zm-15 4h1v1h-1zm30 3h1v1h-1zm-14 2h1v1h-1zm7 0h1v1h-1zm5 0h1v1h-1zm-11 1h1v1h-1zm5 0h1v1h-1z"/>
+		<path id="Path 12" class="s12" d="m33 4l1-1h2l1 1 1 1v1 1h-4l-1-1v-1z"/>
+		<path id="Path 13" class="s13" d="m33 7h1v1h-1zm-1 8h1v1h-1zm-3 14v-5h1v7h-1zm-17-1h1v1h-1zm27 0h1v1h-1zm2 0h1v1h-1zm-16 2h1v1h-1zm-8 3h1v1h-1zm7 0h1v1h-1zm12 0h1v1h-1z"/>
+		<path id="Path 14" class="s14" d="m34 8v-1h4v1h-1z"/>
+		<path id="Path 15" class="s15" d="m17 14h1v1h-1zm2 2h1v1h-1zm-9 1h1v1h-1zm11 0h1v1h-1zm9 0h1v1h-1zm-28 2h1v1h-1zm14 3h1v1h-1zm11 1h1v1h-1zm8 0h1v1h-1zm-1 1h1v1h-1zm-27 2h1v1h-1zm37 0h1v1h-1zm-36 1h1v1h-1zm3 0h1v1h-1zm29 1h1v1h-1zm-1 2h1v1h-1zm-19 2v-1h3v1h-1zm1 2v-1h1 2v1h-2zm6 0v-1h1 1v1zm7-1h1v1h-1zm4 0h1v1h-1zm-19 1h1v1h-1zm6 0h1v1h-1z"/>
+		<path id="Path 16" class="s16" d="m28 7l4-2 1 1v1 1l-1 1h-1-1l-1 1h-1-1v-2zm10 0v-1l1 1 1 1-1 2h-1v-2z"/>
+		<path id="Path 17" fill-rule="evenodd" class="s17" d="m38 8h-1l1 2zm-3 10h1v-1h-1zm-10 6h1v-1h-1z"/>
+		<path id="Path 18" fill-rule="evenodd" class="s18" d="m18 4l1-4h28l1 2v10l-2 4-1 8h-1l-2-2h-5l-1 1h-1l-1-1h-7l-1 1h-1l-1-1h-8l2-4 1-1h2l1 1h1l1-1-1-1h-2v-2l-1-1v-5h1l1 1v1l2 2v1l3 3h1l1 1h1l1 1 2-1v-2h1v1l2 2h2l1 1h1l1 1 1-1-1-1h-1v-1l-1-4-3 2h-1l-2-2h-2l-1-1v-3h2l1-1h4l1 2h1l1-2-2-2v-1l-2-2h-2l-2 2-4 2-1 1v3h-3v-1l-1-1v-1l-1-1v-1l-1-1h-1l-1-1zm-2 10h1v1h-1zm4 0h1v1h-1zm-2 1h1v1h-1zm-1 1h1v2h-1zm-2 6h1v1h-1zm-3 1h1v5h-1zm2 0h1l-1 10zm2 0h1v1h-1zm4 0h3l1 1v1l-2 2h-2zm7 1l1-1h1v6l-3 1h-1l-1-1v-4l1-1zm5 0v-1h2v1zm4-1h1v1h-1zm4 0h1v1h-1zm-6 2l1-1h1l1 1v1h-5v-1zm5 2v-3h1v3zm-17 1h1v1h-1zm20 0h1v1h-1zm-19 1h1v1h-1zm16 0h1v1h-1zm-15 1h1v1h-1zm1 1h1v1h-1zm-7 2h1v2h-1zm11 1v-1h2v2h-1zm4-1h1v1h-1zm2 0h1v1h-1zm5 2v-2h1zm-27-13h2-1zm17 13h-7 1 1 1 1z"/>
+		<path id="Path 19" fill-rule="evenodd" class="s19" d="m0 48v-48h19l-1 4-1 1v2l-1 1h-1l-1 1h-1l-1-1-2 2v1l-5 5h-1l-3 3 1 1 3-3h5l1 1h7l-2 4h-4v5h-1l-2-2v-1l-2-2h-2v11h2v-6h1l6 6 1-10h1l1 1v8l-1 1v1l1 1h23l1-2-1-1v-3h2l3-3v-2l1-8 2-4v36zm48-46l-1-2h1zm-27 3l1 1h-1zm15 10l3-2 1 4h-1l-1-1h-1zm-19 0h1v1h-1zm1 3v-2h1v1zm14 7v-1h2v1zm4-1h1v1h-1zm4 3v-3h2v3zm-8-1h5v6l-1 1h-3l-1-1zm-12 5v-3h2l2 2v1zm6-1l3-1v3l-1 1h-3v-1l1-1z"/>
+		<path id="Path 20" class="s1" d="m7 13h1v1h-1zm9 0h1v1h-1zm-10 1h1v1h-1zm-1 1h1v1h-1zm22 0h1v1h-1z"/>
+		<path id="Path 21" class="s2" d="m9 16h1v1h-1zm20 0h1v1h-1zm-15 1h1v1h-1zm29 6h1v1h-1z"/>
+		<path id="Path 22" class="s3" d="m16 7h1v1h-1zm-8 5h1v1h-1z"/>
+		<path id="Path 23" class="s4" d="m25 14h1v1h-1zm-14 3h1v1h-1z"/>
+		<path id="Path 24" class="s5" d="m12 8h1v1h-1zm22 6h1v1h-1zm-33 4h1v1h-1zm8 21h1v1h-1zm9 1v-1h1 1 1v1h-2zm13-1h1v1h-1zm6 0h1v1h-1zm3 0h1v1h-1z"/>
+		<path id="Path 25" class="s6" d="m2 17h1v1h-1zm9 22l1-1h1l1 1h1 1v1h-5zm7-1h1v1h-1zm17 1l1-1 1 1v1h-1-1zm-29 1v-1h2 1v1h-2zm16 0v-1h1 1v1zm6-1h1v1h-1zm11 0h1v1h-1zm3 0h1v1h-1z"/>
+		<path id="Path 26" class="s7" d="m11 8h1v1h-1zm-2 3h1v1h-1zm-5 11h1v1h-1zm38 0h1v1h-1zm-33 3h1v1h-1zm-4 13h1v1h-1zm21 1v-1h1v1l-1 1zm7 0v-1h1v1 1h-1zm-23 0h1v1h-1zm11 0h1v1h-1zm3 0h1v1h-1zm5 0h1v1h-1zm9 0h1v1h-1z"/>
+		<path id="Path 27" class="s8" d="m19 4h1v1h-1zm-16 12h1v1h-1zm19 10h1v1h-1zm-18 6h1v1h-1zm28 0h1v1h-1zm4 0h1v1h-1zm-21 6h1v1h-1zm4 0h1v1h-1zm5 0h1v1h-1zm3 0h1v1h-1zm3 1h1v1h-1z"/>
+		<path id="Path 28" class="s10" d="m33 13h1v1h-1zm-9 9h1v1h-1zm-14 4h1v1h-1zm6 13v-1h1l-1 2zm12-1h1v1h-1zm-23 1h1v1h-1zm27 0h1v1h-1zm4 1h1v1h-1z"/>
+		<path id="Path 29" class="s11" d="m7 32h1v1h-1zm9 0h1v1h-1zm-8 6h1v1h-1zm3 0h1v1h-1zm3 0h1v1h-1zm6 0h1v1h-1zm5 0h1v1h-1zm4 1v-1h2v1h-1zm3-1h1v1h-1zm5 1v-1h3v1h-1-1zm4 0v-1h2v1h-1zm-4 1h1v1h-1zm5 0h1v1h-1z"/>
+		<path id="Path 30" class="s13" d="m17 4h1v1h-1zm19 18h1v1h-1zm-13 3h1v1h-1zm5 7h1v1h-1zm12 0h1v1h-1zm-34 7v-1h2v1zm7-1h1v1h-1zm8 1v-1h2v1h-1zm10-1h1v1h-1zm9 0h1v1h-1z"/>
+		<path id="Path 31" class="s14" d="m33 3h1v1h-1zm3 0h1v1h-1zm-4 1h1v1h-1zm5 0h1v1h-1zm-4 2h1v1h-1z"/>
+		<path id="Path 32" class="s15" d="m10 9h1v1h-1zm13 0h1v1h-1zm0 7h1v1h-1zm22 0h1v1h-1zm-4 2h1v1h-1zm4 1h1v1h-1zm-36 20v-1h2v1h-1zm14-1h1v1h-1zm-19 1h1v1h-1zm30 0h1v1h-1zm7 0h1v1h-1zm-23 1h1v1h-1zm20 0h1v1h-1z"/>
+		<path id="Path 33" class="s17" d="m22 7h1v1h-1zm5 0h1v1h-1zm12 0h1v1h-1zm-10 2h1v1h-1zm2 0h1v1h-1zm7 1h1v1h-1zm-24 2h1v1h-1zm6 1h1v1h-1z"/>
+		<path id="Path 34" class="s18" d="m14 8h1v1h-1zm22 7h1v1h-1zm2 1h1v1h-1zm-31 6h1v1h-1zm4 0h1v1h-1zm-3 1h1v1h-1zm8 2h1v1h-1zm1 10h1v1h-1zm4 0h1v1h-1zm-9 2h1v1h-1zm6 1h2-1zm6 0h4-1-1-1zm9-1h1v1h-1zm-17 3l1-2h1v1 1 1l-8-1h1zm20-2h1v1h-1zm7 1v-1 2zm-18 0h1v1h-1zm1 1l1-1h1l1 1h1 1 1 1 1 1 1v1zm-21 0h1v1h-1zm14 1v-1h2 1 2 1zm20 0v-1h1 1 1v1z"/>
+		<path id="Path 35" class="s19" d="m21 14h1v1h-1zm3 15h1v1h-1z"/>
+		<path id="Stroke" fill-rule="evenodd" class="s20" d="m18 6v-1h1 1l1 1v1h-1l-1 2v1 1 1l1 1v1h-1-1-1l-1-1h-1v-1l-1-1v-2h1l1-1 1-1zm-7 4v-1h1 1v2l1 2 1 1 1 1v1 1h-1l-1 1h-2l-1-1h-1l-1-1h-1-2v-1l1-1 1-1 1-1 1-1zm15 2l1-1h1 1v2l1 1 1 1 1 1v1h-1-1l-1-1h-1l-1-1h-1l-1-1v-1-1zm-23 5h1v1h-1zm-1 1h1v1h-1zm4 6v-1h1l1 1v1h-1-1zm12 0v-1h1v1 2 1 1 3 1h-1v-1zm12 0v-1h1v1 6 1 1h-1v-1zm8 0v-1h1v1 3 1 1 1 1 1h-1v-1zm4-1h1v1h-1zm1 2v-1h1v1 1 1h-1v-1zm-35 0h1v1h-1zm1 2v-1h1v1 1h-1zm1 1h1v1h-1zm1 1h1v1h-1zm1 1h1v1h-1zm5-24h1v1h-1zm2 3l1-2v1 1zm2-2h1v1h-1zm-6 1h1v1h-1zm-2 3v-2h1v2zm9-2h1v1h-1zm6 1h1v1h-1zm-4 2v-1h1v1 1h-1zm2-1h1v1h-1zm3 2v-2h1v1 1zm-10-1h1v1h-1zm-5 1h1v1h-1zm5 2v-1h1v1 1h-1zm14-1h1v1h-1zm-2 1h1v1h-1zm3 0h1v1h-1zm-18 1h1v1h-1zm5 0h1v1h-1zm11 0h1v1h-1zm3 0h1v1h-1zm2 2v-1h1 1v1h-1zm2 0h1v1h-1zm-31 8h1v1h-1zm2 1h1v1h-1zm32 0h1v1h-1zm-31 1h1v1h-1zm1 1h1v1h-1zm6-25h1v1h-1zm5 6h1v1h-1zm8 3h1v1h-1zm-1 1h1v1h-1zm-26 2h1v1h-1zm36 2h1v1h-1zm-33 7h1v1h-1zm35 1h1v1h-1zm-23 1h1v1h-1zm3 0h1v1h-1zm19 0h1v1h-1zm-28 3h1v1h-1zm6-21h1v1h-1zm-9 1h1v1h-1zm13 1h1v1h-1zm7 2v-1l1 1v1h-1zm-12 1h1v1h-1zm-13 2h1v1h-1zm10 1h1v1h-1zm8 0h1v1h-1zm-5 5h1v1h-1zm12 0h1v1h-1zm8 0h1v1h-1zm-33 1h1v1h-1zm8 8h1v1h-1zm11 0h1v1h-1zm-7-26h1v1h-1zm5 4l-1-1h1 1v1zm5 1h1v1h-1zm-13 3l-1-2h1l1 1zm18 1h1v1h-1zm-12 2v-1h1v1 1h-1zm-12 0h1v1h-1zm28 0h1v1h-1zm-14 1h1v1h-1zm-17 6v-1h2v1h-1zm18-1h1v1h-1zm3 1l1-1v1 1h-1zm5 0v-1h1v1 1h-1zm3 0v-1l1 1v1h-1zm-21 0h1v1h-1zm24 0h1v1h-1zm-17 5v-1h2v1zm19-1h1v1h-1zm-34 4h1v1h-1zm32 0h1v1h-1zm-19 1h1v1h-1zm12 0h1v1h-1zm8 0h1v1h-1zm-16-22h1v1h-1zm-3 1h1v1h-1zm10 2h1v1h-1zm3 0h1v1h-1zm-10 3h1v1h-1zm14 1h1v1h-1zm5 2h1v1h-1zm-28 3h1v1h-1zm4 0h1v1h-1zm2 0h1v1h-1zm8 0h1v1h-1zm2 0h1v1h-1zm4 0h1v1h-1zm4 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm-34 1h1v1h-1zm17 0h1v1h-1zm7 7v-6h1v1 1 4zm6-5v-1h1v7h-1v-5zm5-1h1v1h-1zm-19 3h1v1h-1zm-10 2h1v1h-1zm4 3v-1h1v1 1h-1zm2 0v-1h1v1 1h-1zm12 0v-1h1v1 1h-1zm-26 1v-1h1 1v1zm17 0v-1h1 1v1zm7-1h1v1h-1zm8 0h1v1h-1zm2 0h1v1h-1zm-19-27h1v1h-1zm0 2h1v1h-1zm-14 10v-1h2v1zm10 0h1v1h-1zm15 1v-1h1 1zm7 0h1v1h-1zm2 1h1v1h-1zm-18 3h1v1h-1zm6 0h1v1h-1zm4 0h1v1h-1zm8 0h1v1h-1zm-23 1h1v1h-1zm2 0h1v1h-1zm-14 8v-7h1v1 1 5zm8-3v-4h1v5h-1zm6-2h1v1h-1zm4 0h1v1h-1zm17 1h1v1h-1zm-29 3h1v1h-1zm20 0h1v1h-1zm-25 1h1v1h-1zm6 0h1v1h-1zm8 2v-1h2v1h-1zm4-1h1v1h-1zm-5-22h1v1h-1zm6 1h1v1h-1zm6 3h1v1h-1zm-15 1h1v1h-1zm19 0h1v1h-1zm-31 2h1v1h-1zm35 0h1v1h-1zm-38 2h1v1h-1zm19 4v-1h2v1zm-12 1h1v1h-1zm9 1v-1h1v7h-1v-5zm2 1v-2h1v2zm-13-1h1v1h-1zm36 0h1v1h-1zm-23 6v-3h1v3zm-9-2h1v1h-1zm6 4h1v1h-1zm10 0h1v1h-1zm-9 1h1v1h-1zm19 0h1v1h-1zm-15-28h1v1h-1zm-6 7h1v1h-1zm11 2h1v1h-1zm2 1h1v1h-1zm16 9h1v1h-1zm-21 6h1v1h-1zm6 0h1v1h-1zm-10 3v-1h1 1v1h-1zm-3 0h1v1h-1zm6 1v-1h2v1h-1zm5 0v-1h2l1 1zm7-1h1v1h-1zm3 0h1v1h-1zm-5-29h1v1h-1zm-3 5h1v1h-1zm-5 3h1v1h-1zm-9 1h1v1h-1zm22 2h1v1h-1zm-34 2h1v1h-1zm9 4h1v1h-1zm2 0h1v1h-1zm9 1h1v1h-1zm6 0h1v1h-1zm15 1h1v1h-1zm-38 7v-5h1v1 4zm37-4h1v1h-1zm-20 1h1v1h-1zm-10 4h1v1h-1zm18 1h1v1h-1zm7 1l1-1h1v2h-2zm-18 1v-1h1 1v1h-1zm4-1h1v1h-1zm8 1v-1h1 1v1zm3-1h1v1h-1zm-1-18h1v1h-1zm5 7h1v1h-1zm2 0h1v1h-1zm-17 1h1v1h-1zm-15 4h1v1h-1zm30 3h1v1h-1zm-14 2h1v1h-1zm7 0h1v1h-1zm5 0h1v1h-1zm-11 1h1v1h-1zm5 0h1v1h-1zm2-30l1-1h2l1 1 1 1v1 1h-4l-1-1v-1zm0 3h1v1h-1zm-1 8h1v1h-1zm-3 14v-5h1v7h-1zm-17-1h1v1h-1zm27 0h1v1h-1zm2 0h1v1h-1zm-16 2h1v1h-1zm-8 3h1v1h-1zm7 0h1v1h-1zm12 0h1v1h-1zm-2-25v-1h4v1h-1zm-17 6h1v1h-1zm2 2h1v1h-1zm-9 1h1v1h-1zm11 0h1v1h-1zm9 0h1v1h-1zm-28 2h1v1h-1zm14 3h1v1h-1zm11 1h1v1h-1zm8 0h1v1h-1zm-1 1h1v1h-1zm-27 2h1v1h-1zm37 0h1v1h-1zm-36 1h1v1h-1zm3 0h1v1h-1zm29 1h1v1h-1zm-1 2h1v1h-1zm-19 2v-1h3v1h-1zm1 2v-1h1 2v1h-2zm6 0v-1h1 1v1zm7-1h1v1h-1zm4 0h1v1h-1zm-19 1h1v1h-1zm6 0h1v1h-1zm3-27l4-2 1 1v1 1l-1 1h-1-1l-1 1h-1-1v-2zm10 0v-1l1 1 1 1-1 2h-1v-2zm0 3l-1-2h1zm-3 7h1v1h-1zm-10 6h1v1h-1zm-7-19l1-4h28l1 2v2 4 4l-2 4-1 8h-1l-1-1-1-1h-1-1-1-1-1l-1 1h-1l-1-1h-1-1-1-1-1-1-1l-1 1h-1l-1-1h-1-1-2-1-1-1-1l2-4 1-1h1 1l1 1h1l1-1-1-1h-1-1v-1-1l-1-1v-1-1-1-1-1h1l1 1v1l1 1 1 1v1l1 1 1 1 1 1h1l1 1h1l1 1 2-1v-1-1h1v1l1 1 1 1h1 1l1 1h1l1 1 1-1-1-1h-1v-1l-1-4-3 2h-1l-1-1-1-1h-1-1l-1-1v-1-1-1h1 1l1-1h1 3l1 2h1l1-2-1-1-1-1v-1l-1-1-1-1h-2l-1 1-1 1-4 2-1 1v2 1h-1-1-1v-1l-1-1v-1l-1-1v-1l-1-1h-1l-1-1zm-2 10h1v1h-1zm4 0h1v1h-1zm-2 1h1v1h-1zm-1 2v-1h1v2h-1zm-4 5h2-1zm2 0h1v1h-1zm-3 5v-4h1v1 4h-1zm2-3v-1h1l-1 10v-1-1-1-1zm2-1h1v1h-1zm4 1v-1h2 1l1 1v1l-1 1-1 1h-2v-1zm7 0l1-1h1v1 5l-3 1h-1l-1-1v-1-1-1-1l1-1h1zm5 0v-1h1 1v1zm4-1h1v1h-1zm4 0h1v1h-1zm-6 2l1-1h1l1 1v1h-5v-1zm5 2v-3h1v3zm-17 1h1v1h-1zm20 0h1v1h-1zm-19 1h1v1h-1zm16 0h1v1h-1zm-15 1h1v1h-1zm1 1h1v1h-1zm-7 3v-1h1v1 1h-1zm11 0v-1h1 1v1 1h-1zm4-1h1v1h-1zm2 0h1v1h-1zm5 2v-2h1zm-10 0h-7 1 1 1 1zm-30 13v-48h19l-1 4-1 1v1 1l-1 1h-1l-1 1h-1l-1-1-1 1-1 1v1l-1 1-1 1-1 1-1 1-1 1h-1l-1 1-1 1-1 1 1 1 1-1 1-1 1-1h1 2 1 1l1 1h1 2 1 1 1 1l-2 4h-1-2-1v1 4h-1l-1-1-1-1v-1l-1-1-1-1h-2v1 1 7 1 1h2v-1-1-4h1l1 1 1 1 1 1 1 1 1 1 1 1 1-10h1l1 1v1 1 5 1l-1 1v1l1 1h1 1 1 1 1 1 7 1 1 2 1 1 1 1 2l1-2-1-1v-1-1-1h1 1l1-1 1-1 1-1v-1-1l1-8 2-4v36zm48-46l-1-2h1zm-27 3l1 1h-1zm15 10l3-2 1 4h-1l-1-1h-1zm-19 0h1v1h-1zm1 3v-2h1v1zm14 7v-1h2v1zm4-1h1v1h-1zm4 3v-3h1 1v1 1 1h-1zm-8 3v-4h5v5 1l-1 1h-1-1-1l-1-1v-1zm-12 1v-3h2l1 1 1 1v1h-1zm6-1l3-1v2 1l-1 1h-1-1-1v-1l1-1zm-19-17h1v1h-1zm9 0h1v1h-1zm-10 1h1v1h-1zm-1 1h1v1h-1zm22 0h1v1h-1zm-18 1h1v1h-1zm20 0h1v1h-1zm-15 1h1v1h-1zm29 6h1v1h-1zm-27-16h1v1h-1zm-8 5h1v1h-1zm17 2h1v1h-1zm-14 3h1v1h-1zm1-9h1v1h-1zm22 6h1v1h-1zm-33 4h1v1h-1zm8 21h1v1h-1zm9 1v-1h1 1 1v1h-2zm13-1h1v1h-1zm6 0h1v1h-1zm3 0h1v1h-1zm-38-22h1v1h-1zm9 22l1-1h1l1 1h1 1v1h-5zm7-1h1v1h-1zm17 1l1-1 1 1v1h-1-1zm-29 1v-1h2 1v1h-2zm16 0v-1h1 1v1zm6-1h1v1h-1zm11 0h1v1h-1zm3 0h1v1h-1zm-31-31h1v1h-1zm-2 3h1v1h-1zm-5 11h1v1h-1zm38 0h1v1h-1zm-33 3h1v1h-1zm-4 13h1v1h-1zm21 1v-1h1v1l-1 1zm7 0v-1h1v1 1h-1zm-23 0h1v1h-1zm11 0h1v1h-1zm3 0h1v1h-1zm5 0h1v1h-1zm9 0h1v1h-1zm-19-35h1v1h-1zm-16 12h1v1h-1zm19 10h1v1h-1zm-18 6h1v1h-1zm28 0h1v1h-1zm4 0h1v1h-1zm-21 6h1v1h-1zm4 0h1v1h-1zm5 0h1v1h-1zm3 0h1v1h-1zm3 1h1v1h-1zm3-26h1v1h-1zm-9 9h1v1h-1zm-14 4h1v1h-1zm6 13v-1h1l-1 2zm12-1h1v1h-1zm-23 1h1v1h-1zm27 0h1v1h-1zm4 1h1v1h-1zm-29-8h1v1h-1zm9 0h1v1h-1zm-8 6h1v1h-1zm3 0h1v1h-1zm3 0h1v1h-1zm6 0h1v1h-1zm5 0h1v1h-1zm4 1v-1h2v1h-1zm3-1h1v1h-1zm5 1v-1h3v1h-1-1zm4 0v-1h2v1h-1zm-4 1h1v1h-1zm5 0h1v1h-1zm-25-36h1v1h-1zm19 18h1v1h-1zm-13 3h1v1h-1zm5 7h1v1h-1zm12 0h1v1h-1zm-34 7v-1h2v1zm7-1h1v1h-1zm8 1v-1h2v1h-1zm10-1h1v1h-1zm9 0h1v1h-1zm-7-35h1v1h-1zm3 0h1v1h-1zm-4 1h1v1h-1zm5 0h1v1h-1zm-4 2h1v1h-1zm-23 3h1v1h-1zm13 0h1v1h-1zm0 7h1v1h-1zm22 0h1v1h-1zm-4 2h1v1h-1zm4 1h1v1h-1zm-36 20v-1h2v1h-1zm14-1h1v1h-1zm-19 1h1v1h-1zm30 0h1v1h-1zm7 0h1v1h-1zm-23 1h1v1h-1zm20 0h1v1h-1zm-16-33h1v1h-1zm5 0h1v1h-1zm12 0h1v1h-1zm-10 2h1v1h-1zm2 0h1v1h-1zm7 1h1v1h-1zm-24 2h1v1h-1zm6 1h1v1h-1zm-6-5h1v1h-1zm22 7h1v1h-1zm2 1h1v1h-1zm-31 6h1v1h-1zm4 0h1v1h-1zm-3 1h1v1h-1zm8 2h1v1h-1zm1 10h1v1h-1zm4 0h1v1h-1zm-9 2h1v1h-1zm6 1h2-1zm6 0h4-1-1-1zm9-1h1v1h-1zm-17 3l1-2h1v1 1 1l-8-1h1zm20-2h1v1h-1zm7 1v-1 2zm-18 0h1v1h-1zm1 1l1-1h1l1 1h1 1 1 1 1 1 1v1zm-21 0h1v1h-1zm14 1v-1h2 1 2 1zm20 0v-1h1 1 1v1zm-18-27h1v1h-1zm3 15h1v1h-1z"/>
+		<g id="Labels">
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,5,5)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,42,4)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,47,0)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="13" style="opacity: .5;transform: matrix(1,0,0,1,34,4)" >
+				<tspan x="0" y="0" class="t21">13
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,21,4)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,47,4)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,16,10)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="17" style="opacity: .5;transform: matrix(1,0,0,1,30,6)" >
+				<tspan x="0" y="0" class="t21">17
+</tspan>
+			</text>
+			<text id="17" style="opacity: .5;transform: matrix(1,0,0,1,38,6)" >
+				<tspan x="0" y="0" class="t21">17
+</tspan>
+			</text>
+			<text id="2" style="opacity: .5;transform: matrix(1,0,0,1,19,7)" >
+				<tspan x="0" y="0" class="t21">2
+</tspan>
+			</text>
+			<text id="15" style="opacity: .5;transform: matrix(1,0,0,1,34,7)" >
+				<tspan x="0" y="0" class="t21">15
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,21,8)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="18" style="opacity: .5;transform: matrix(1,0,0,1,37,8)" >
+				<tspan x="0" y="0" class="t21">18
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,11,13)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="2" style="opacity: .5;transform: matrix(1,0,0,1,13,9)" >
+				<tspan x="0" y="0" class="t21">2
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,13,11)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="2" style="opacity: .5;transform: matrix(1,0,0,1,24,11)" >
+				<tspan x="0" y="0" class="t21">2
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,26,13)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="2" style="opacity: .5;transform: matrix(1,0,0,1,29,11)" >
+				<tspan x="0" y="0" class="t21">2
+</tspan>
+			</text>
+			<text id="4" style="opacity: .5;transform: matrix(1,0,0,1,30,12)" >
+				<tspan x="0" y="0" class="t21">4
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,37,14)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="2" style="opacity: .5;transform: matrix(1,0,0,1,19,14)" >
+				<tspan x="0" y="0" class="t21">2
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,20,15)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,6,16)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,17,16)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,18,16)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,31,17)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="2" style="opacity: .5;transform: matrix(1,0,0,1,37,17)" >
+				<tspan x="0" y="0" class="t21">2
+</tspan>
+			</text>
+			<text id="16" style="opacity: .5;transform: matrix(1,0,0,1,43,18)" >
+				<tspan x="0" y="0" class="t21">16
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,13,21)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,5,22)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="8" style="opacity: .5;transform: matrix(1,0,0,1,20,22)" >
+				<tspan x="0" y="0" class="t21">8
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,26,22)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,31,22)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,34,22)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,6,23)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,12,23)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,14,23)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,18,23)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,21,24)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,26,26)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,30,23)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,32,23)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,38,23)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,5,24)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,13,24)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="8" style="opacity: .5;transform: matrix(1,0,0,1,17,24)" >
+				<tspan x="0" y="0" class="t21">8
+</tspan>
+			</text>
+			<text id="8" style="opacity: .5;transform: matrix(1,0,0,1,19,24)" >
+				<tspan x="0" y="0" class="t21">8
+</tspan>
+			</text>
+			<text id="14" style="opacity: .5;transform: matrix(1,0,0,1,29,24)" >
+				<tspan x="0" y="0" class="t21">14
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,31,24)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,32,24)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,35,24)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,37,24)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,39,24)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,40,24)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,43,24)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="11" style="opacity: .5;transform: matrix(1,0,0,1,6,26)" >
+				<tspan x="0" y="0" class="t21">11
+</tspan>
+			</text>
+			<text id="1" style="opacity: .5;transform: matrix(1,0,0,1,9,26)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,34,28)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="5" style="opacity: .5;transform: matrix(1,0,0,1,20,27)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<text id="8" style="opacity: .5;transform: matrix(1,0,0,1,19,28)" >
+				<tspan x="0" y="0" class="t21">8
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,21,29)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="20" style="opacity: .5;transform: matrix(1,0,0,1,27,30)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,17,31)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,19,31)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="16" style="opacity: .5;transform: matrix(1,0,0,1,20,31)" >
+				<tspan x="0" y="0" class="t21">16
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,31,31)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,5,32)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,20,32)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,22,32)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,18,33)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="9" style="opacity: .5;transform: matrix(1,0,0,1,19,33)" >
+				<tspan x="0" y="0" class="t21">9
+</tspan>
+			</text>
+			<text id="16" style="opacity: .5;transform: matrix(1,0,0,1,21,33)" >
+				<tspan x="0" y="0" class="t21">16
+</tspan>
+			</text>
+			<text id="16" style="opacity: .5;transform: matrix(1,0,0,1,27,33)" >
+				<tspan x="0" y="0" class="t21">16
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,29,33)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="11" style="opacity: .5;transform: matrix(1,0,0,1,39,33)" >
+				<tspan x="0" y="0" class="t21">11
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,40,33)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="11" style="opacity: .5;transform: matrix(1,0,0,1,20,34)" >
+				<tspan x="0" y="0" class="t21">11
+</tspan>
+			</text>
+			<text id="9" style="opacity: .5;transform: matrix(1,0,0,1,22,34)" >
+				<tspan x="0" y="0" class="t21">9
+</tspan>
+			</text>
+			<text id="9" style="opacity: .5;transform: matrix(1,0,0,1,27,34)" >
+				<tspan x="0" y="0" class="t21">9
+</tspan>
+			</text>
+			<text id="11" style="opacity: .5;transform: matrix(1,0,0,1,32,34)" >
+				<tspan x="0" y="0" class="t21">11
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,23,35)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,18,37)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,24,37)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="14" style="opacity: .5;transform: matrix(1,0,0,1,6,38)" >
+				<tspan x="0" y="0" class="t21">14
+</tspan>
+			</text>
+			<text id="16" style="opacity: .5;transform: matrix(1,0,0,1,9,38)" >
+				<tspan x="0" y="0" class="t21">16
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,12,38)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="11" style="opacity: .5;transform: matrix(1,0,0,1,16,38)" >
+				<tspan x="0" y="0" class="t21">11
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,17,38)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="14" style="opacity: .5;transform: matrix(1,0,0,1,21,38)" >
+				<tspan x="0" y="0" class="t21">14
+</tspan>
+			</text>
+			<text id="8" style="opacity: .5;transform: matrix(1,0,0,1,26,38)" >
+				<tspan x="0" y="0" class="t21">8
+</tspan>
+			</text>
+			<text id="12" style="opacity: .5;transform: matrix(1,0,0,1,29,38)" >
+				<tspan x="0" y="0" class="t21">12
+</tspan>
+			</text>
+			<text id="8" style="opacity: .5;transform: matrix(1,0,0,1,33,38)" >
+				<tspan x="0" y="0" class="t21">8
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,35,38)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="12" style="opacity: .5;transform: matrix(1,0,0,1,37,38)" >
+				<tspan x="0" y="0" class="t21">12
+</tspan>
+			</text>
+			<text id="12" style="opacity: .5;transform: matrix(1,0,0,1,41,38)" >
+				<tspan x="0" y="0" class="t21">12
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,43,38)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,6,39)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="6" style="opacity: .5;transform: matrix(1,0,0,1,18,39)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<text id="7" style="opacity: .5;transform: matrix(1,0,0,1,22,39)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,27,39)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,7,40)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,19,40)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<text id="19" style="opacity: .5;transform: matrix(1,0,0,1,39,40)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<path id="white" fill-rule="evenodd" class="s22" d="m0 0h1.37v27.43h-1.37z"/>
+			<path id="color" fill-rule="evenodd" class="s0" d="m1.37 0h1.37v1.37h-1.37z"/>
+			<text id="1" style="transform: matrix(1,0,0,1,0,1)" >
+				<tspan x="0" y="0" class="t21">1
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s1" d="m1.37 1.37h1.37v1.37h-1.37z"/>
+			<text id="2" style="transform: matrix(1,0,0,1,0,2)" >
+				<tspan x="0" y="0" class="t21">2
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s2" d="m1.37 2.74h1.37v1.37h-1.37z"/>
+			<text id="3" style="transform: matrix(1,0,0,1,0,4)" >
+				<tspan x="0" y="0" class="t21">3
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s3" d="m1.37 4.11h1.37v1.38h-1.37z"/>
+			<text id="4" style="transform: matrix(1,0,0,1,0,5)" >
+				<tspan x="0" y="0" class="t21">4
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s4" d="m1.37 5.49h1.37v1.37h-1.37z"/>
+			<text id="5" style="transform: matrix(1,0,0,1,0,7)" >
+				<tspan x="0" y="0" class="t21">5
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s5" d="m1.37 6.86h1.37v1.37h-1.37z"/>
+			<text id="6" style="transform: matrix(1,0,0,1,0,8)" >
+				<tspan x="0" y="0" class="t21">6
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s6" d="m1.37 8.23h1.37v1.37h-1.37z"/>
+			<text id="7" style="transform: matrix(1,0,0,1,0,9)" >
+				<tspan x="0" y="0" class="t21">7
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s7" d="m1.37 9.6h1.37v1.37h-1.37z"/>
+			<text id="8" style="transform: matrix(1,0,0,1,0,11)" >
+				<tspan x="0" y="0" class="t21">8
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s8" d="m1.37 10.97h1.37v1.37h-1.37z"/>
+			<text id="9" style="transform: matrix(1,0,0,1,0,12)" >
+				<tspan x="0" y="0" class="t21">9
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s9" d="m1.37 12.34h1.37v1.37h-1.37z"/>
+			<text id="10" style="transform: matrix(1,0,0,1,0,13)" >
+				<tspan x="0" y="0" class="t21">10
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s10" d="m1.37 13.71h1.37v1.38h-1.37z"/>
+			<text id="11" style="transform: matrix(1,0,0,1,0,15)" >
+				<tspan x="0" y="0" class="t21">11
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s11" d="m1.37 15.09h1.37v1.37h-1.37z"/>
+			<text id="12" style="transform: matrix(1,0,0,1,0,16)" >
+				<tspan x="0" y="0" class="t21">12
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s12" d="m1.37 16.46h1.37v1.37h-1.37z"/>
+			<text id="13" style="transform: matrix(1,0,0,1,0,17)" >
+				<tspan x="0" y="0" class="t21">13
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s13" d="m1.37 17.83h1.37v1.37h-1.37z"/>
+			<text id="14" style="transform: matrix(1,0,0,1,0,19)" >
+				<tspan x="0" y="0" class="t21">14
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s14" d="m1.37 19.2h1.37v1.37h-1.37z"/>
+			<text id="15" style="transform: matrix(1,0,0,1,0,20)" >
+				<tspan x="0" y="0" class="t21">15
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s15" d="m1.37 20.57h1.37v1.37h-1.37z"/>
+			<text id="16" style="transform: matrix(1,0,0,1,0,22)" >
+				<tspan x="0" y="0" class="t21">16
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s16" d="m1.37 21.94h1.37v1.37h-1.37z"/>
+			<text id="17" style="transform: matrix(1,0,0,1,0,23)" >
+				<tspan x="0" y="0" class="t21">17
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s17" d="m1.37 23.31h1.37v1.38h-1.37z"/>
+			<text id="18" style="transform: matrix(1,0,0,1,0,24)" >
+				<tspan x="0" y="0" class="t21">18
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s18" d="m1.37 24.69h1.37v1.37h-1.37z"/>
+			<text id="19" style="transform: matrix(1,0,0,1,0,26)" >
+				<tspan x="0" y="0" class="t21">19
+</tspan>
+			</text>
+			<path id="color" fill-rule="evenodd" class="s19" d="m1.37 26.06h1.37v1.37h-1.37z"/>
+			<text id="20" style="transform: matrix(1,0,0,1,0,27)" >
+				<tspan x="0" y="0" class="t21">20
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
