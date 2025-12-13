@@ -1,21 +1,24 @@
-
 body {
     /* font-family: Georgia, serif; */
     font-family: "Bookman Old Style", "Bookman", "URW Bookman", serif;
 }
+
 .hero {
     text-align: center;
     padding: 30px 0;
-    background: #fff; /* optional background */
+    background: #fff;
+    /* optional background */
 }
 
 .hero-logo {
-    width: 86%; /* adjust size */
+    width: 86%;
+    /* adjust size */
     /* max-width: 80%; */
     height: auto;
     display: block;
     margin: 0 auto;
 }
+
 /* Very small phones (iPhone SE, Android small 320-375px) */
 @media (max-width: 375px) {
     .hero-logo {
@@ -86,7 +89,7 @@ body {
     width: 100%;
     top: 0;
     z-index: 10;
-    background: rgba(0,0,0,0.3);
+    background: rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(4px);
 }
 
@@ -116,12 +119,14 @@ body {
 } */
 .blink {
     animation: blinker 1s linear infinite;
-  }
-  
-  @keyframes blinker {
-    50% { opacity: 0; }
-  }
-  
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
 
 .section-title {
     font-size: 32px;
@@ -134,6 +139,7 @@ body {
     border-radius: 6px;
     height: 205px;
 }
+
 .subheading {
     font-size: 18px;
     font-weight: 700;
@@ -194,9 +200,11 @@ body {
         margin: 0 6px;
         font-size: 18px;
     }
+
     .separator {
         height: 55px;
     }
+
     .bar-title {
         font-size: 16px;
     }
@@ -208,6 +216,7 @@ body {
         margin: 0 10px;
         font-size: 15px;
     }
+
     .separator {
         height: 65px;
     }
@@ -219,6 +228,7 @@ body {
         margin: 0 20px;
         font-size: 17px;
     }
+
     .separator {
         height: 70px;
     }
@@ -229,6 +239,7 @@ body {
     .bar-btn {
         margin: 0 80px;
     }
+
     .separator {
         height: 90px;
     }
@@ -240,6 +251,7 @@ body {
         margin: 2px 119px;
         font-size: 19px;
     }
+
     .separator {
         height: 100px;
     }
@@ -251,6 +263,7 @@ body {
     display: block;
     margin-bottom: 3px;
 }
+
 .home i {
     color: blue;
 }
@@ -258,9 +271,11 @@ body {
 .whatsapp i {
     color: #25D366;
 }
+
 .call i {
     color: red;
 }
+
 .enquiry i {
     color: blue;
 }
@@ -272,8 +287,10 @@ body {
 .destination-img {
     width: 100%;
     height: auto;
-    margin-bottom: 20px; /* space between photo and heading */
-    border-radius: 10px; /* optional */
+    margin-bottom: 20px;
+    /* space between photo and heading */
+    border-radius: 10px;
+    /* optional */
 }
 
 .banner-overlay {
@@ -301,7 +318,9 @@ body {
     overflow: hidden;
     text-decoration: none;
     color: black;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    height: 140px;
+    max-height: 140px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -310,9 +329,10 @@ body {
     height: 180px;
     object-fit: cover;
 }
+
 .travel-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
 
 /* Default (Desktop) */
@@ -328,14 +348,17 @@ body {
 /* 📱 Mobile screens */
 @media (max-width: 576px) {
     .travel-card img {
-        height: 83px;  /* smaller image for mobile */
+        height: 83px;
+        /* smaller image for mobile */
     }
 
     .card-title {
-        font-size: 0.61rem; /* smaller title on mobile */
+        font-size: 0.61rem;
+        /* smaller title on mobile */
     }
 
     .card-body {
-        padding: 8px; /* reduce padding */
+        padding: 8px;
+        /* reduce padding */
     }
 }

@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST['message'];
 
     $to = "northeasttourplanner.in@gmail.com";
-    $subject = "Tour Enquiry from Website";
+    $subject = "Tour Enquiry";
 
     $body = "
     --- New Enquiry Details ---
